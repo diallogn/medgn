@@ -1,0 +1,64 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "slug": "1-moussa-bangoura-kipe",
+      "firstName": "Moussa",
+      "lastName": "Bangoura",
+      "sexe": "Homme",
+      "quartier": "Kipe",
+      "clinique": "Clinique Pasteur",
+      "image": "/images/1.jpg",
+      "specialite": "Dentiste",
+      "tarif": "75 000"
+    },
+    {
+      "id": 2,
+      "slug": "2-kaly-soumah-nongo",
+      "firstName": "Kaly",
+      "lastName": "Soumah",
+      "sexe": "Homme",
+      "quartier": "Belle-Vue",
+      "clinique": "UTC Donka",
+      "image": "/images/2.jpg",
+      "specialite": "Dérmatologue",
+      "tarif": "210 000"
+    },
+    {
+      "id": 3,
+      "slug": "3-Moustapha-Bah-wanindara",
+      "firstName": "Moustapha",
+      "lastName": "Bah",
+      "sexe": "Homme",
+      "quartier": "Wanindara",
+      "clinique": "CLinique Internationnal",
+      "image": "/images/4.jfif",
+      "specialite": "Rhumatologue",
+      "tarif": "100 000"
+    },
+    {
+      "id": 4,
+      "slug": "4-houssein-fofana-donka",
+      "firstName": "Houssein",
+      "lastName": "Fofana",
+      "sexe": "Homme",
+      "quartier": "Belle-Vue",
+      "clinique": "UTC Donka",
+      "image": "/images/3.jfif",
+      "specialite": "Churirgie Générale",
+      "tarif": "410 000"
+    },
+    {
+      "id": 5,
+      "slug": "5-mariame-bangoura-nongo",
+      "firstName": "Mariama",
+      "lastName": "Bangoura",
+      "sexe": "Homme",
+      "quartier": "Kipe",
+      "clinique": "UTC Donka",
+      "image": "/images/femme-africaine-de-docteur-89744631.jpg",
+      "specialite": "Orthopédie Traumatologie",
+      "tarif": "500 000"
+    }
+  ]
+}
